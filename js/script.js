@@ -6,5 +6,6 @@ const app = new Vue({
     messaggio: "Vite al limite",
     colore: "giallo",
     background: "",
+    immagine: "./img/03.jpg",
   },
 });
