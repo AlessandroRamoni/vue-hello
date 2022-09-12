@@ -1,4 +1,22 @@
+/* 
+.coloreRosso{
+    
+}
 
-.colore{
-    color: red;
+.giallo{
+    color: yellow;
+}
+
+.sottolineatura{
+    
+}
+
+.backgroundViolet{
+    
+} */
+
+.h1{
+    color: rgb(8, 131, 25);
+    text-decoration: underline;
+    background-color: rgb(162, 151, 172);
 }

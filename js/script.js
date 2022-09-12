@@ -3,9 +3,8 @@ console.log("Lunedì");
 const app = new Vue({
   el: "#container",
   data: {
-    messaggio: "Vite al limite",
-    colore: "giallo",
-    background: "",
+    messaggio: "London calling",
+    stile: "h1",
     immagine: "./img/03.jpg",
   },
 });
